@@ -1,5 +1,5 @@
 # streamlit-chat
-A user-friendly Streamlit chat application powered by ChatGPT for seamless conversations and engagement.This application leverages the power of OpenAI's ChatGPT to create a user-friendly, interactive chat interface for users to engage in smooth and dynamic conversations.
+:speech_balloon: A user-friendly Streamlit chat application powered by ChatGPT for seamless conversations and engagement.This application leverages the power of OpenAI's ChatGPT to create a user-friendly, interactive chat interface for users to engage in smooth and dynamic conversations.
 
 ## Features
 - Easy-to-use Streamlit interface
