@@ -17,7 +17,7 @@ To get started with the Streamlit ChatGPT App, you'll need the following:
 
 ### Installation
 - Clone the repository:
-```git clone https://github.com/yourusername/streamlit-chatgpt-app.git```
+```git clone https://github.com/billyotieno/streamlit-chatg.git```
 - Change to the repository directory:
 ```cd streamlit-chat```
 - Install the required dependencies:
